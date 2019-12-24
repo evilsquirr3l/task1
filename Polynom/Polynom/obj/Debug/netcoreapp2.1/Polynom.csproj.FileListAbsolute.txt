@@ -1,0 +1,11 @@
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\bin\Debug\netcoreapp2.1\Polynom.deps.json
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\bin\Debug\netcoreapp2.1\Polynom.runtimeconfig.json
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\bin\Debug\netcoreapp2.1\Polynom.runtimeconfig.dev.json
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\bin\Debug\netcoreapp2.1\Polynom.dll
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\bin\Debug\netcoreapp2.1\Polynom.pdb
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\obj\Debug\netcoreapp2.1\Polynom.csprojAssemblyReference.cache
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\obj\Debug\netcoreapp2.1\Polynom.csproj.CoreCompileInputs.cache
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\obj\Debug\netcoreapp2.1\Polynom.AssemblyInfoInputs.cache
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\obj\Debug\netcoreapp2.1\Polynom.AssemblyInfo.cs
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\obj\Debug\netcoreapp2.1\Polynom.dll
+C:\Users\evilsquirrel\source\repos\Polynom\Polynom\obj\Debug\netcoreapp2.1\Polynom.pdb
